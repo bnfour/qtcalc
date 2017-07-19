@@ -33,4 +33,5 @@ void Dialog::on_calcButton_clicked()
 {
     QString result = parser->calc(ui->exprEdit->text());
     ui->resultLabel->setText(result);
+    ui->exprEdit->setFocus();
 }
