@@ -4,7 +4,7 @@ Works by converting expression to postfix notation and trivially evaluating it.
 
 ![Screenshot](http://i.imgur.com/JX0OTqc.png)
 
-Uses [Qt](https://qt.io) for GUI. Written in Qt Creator Community Edition, so the code is under GPLv3.
+Uses [Qt](https://www.qt.io) for GUI. Written in Qt Creator Community Edition, so the code is under GPLv3.
 
 The calculator supports following operations:
 * Addition and substraction
